@@ -19,3 +19,12 @@ C:\Users\taruc\Desktop\TicketReservationSystem\TicketReservationSystem\obj\Debug
 C:\Users\taruc\Desktop\TicketReservationSystem\TicketReservationSystem\obj\Debug\TicketReservationSystem.Form1.resources
 C:\Users\taruc\Desktop\TicketReservationSystem\TicketReservationSystem\obj\Debug\TicketReservationSystem.Properties.Resources.resources
 C:\Users\taruc\Desktop\TicketReservationSystem\TicketReservationSystem\obj\Debug\TicketReservationSystem.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\bin\Debug\TicketReservationSystem.exe.config
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.exe
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.pdb
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\bin\Debug\TicketReservationSystem.exe
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\bin\Debug\TicketReservationSystem.pdb
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.Properties.Resources.resources
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\Plane-Ticket-Reservation-System\TicketReservationSystem\obj\Debug\TicketReservationSystem.CustomerLogin.resources
